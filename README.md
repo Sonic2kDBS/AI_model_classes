@@ -1,4 +1,4 @@
-# AI_model_classes
+# S2k AI model classes
 This is an idea to specify loose levels / classes for AI models.
 
 Sice almost half a Year I had that idea and as often as I tried calculations to find another class-model, I still came back to his.
