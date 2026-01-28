@@ -31,7 +31,7 @@ Level 12 7^12 `13841287201` *10e-9 = `13,841287201 B` # 13B to 96B - Human level
 
 Level 13 7^13 `96889010407` *10e-9 = `96,889010407 B` # 96B to 678B - Superhuman level AI / AGI Class.
 
-Level 14 7^14 `678223072849` *10e-9 = `678,223072849 B` # 678B to 4,7T - ASI Class.
+Level 14 7^14 `678223072849` *10e-9 = `678,223072849 B` # 678B to 4,7T - Superintelligence level AI / ASI Class.
 
 Level 15 7^15 `4747561509943` *10e-9 = `4747,561509943 B`
 
