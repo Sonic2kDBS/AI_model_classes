@@ -1,7 +1,7 @@
 # AI_model_classes
 This is an idea to specify loose levels / classes for AI models.
 
-Sice almost half a Year I had that Idea and as often as I tried calculations to find another class-model, I still came back to his.
+Sice almost half a Year I had that idea and as often as I tried calculations to find another class-model, I still came back to his.
 The Formular is `7^x*10^-9`, where x is the class / level and the result is the first Parameter count of the class / level in Billion.
 
 
