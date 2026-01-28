@@ -23,7 +23,7 @@ Level 08 7^8 `5764801` *10e-9 = `0,005764801 B`
 
 Level 09 7^9 `40353607` *10e-9 = `0,040353607 B`
 
-Level 10 7^10 `282475249` *10e-9 = `0,282475249 B`
+Level 10 7^10 `282475249` *10e-9 = `0,282475249 B` # 300M to 2B - sentence model class.
 
 Level 11 7^11 `1977326743` *10e-9 = `1,977326743 B` # 2B to 13B - Small AI models / AI Companion Class. 
 
