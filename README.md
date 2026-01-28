@@ -4,7 +4,7 @@ This is an idea to specify loose levels / classes for AI models.
 Sice almost half a Year I had that idea and as often as I tried calculations to find another class-model, I still came back to his.
 The Formular is `7^x*10^-9`, where x is the class / level and the result is the first Parameter count of the class / level in Billion.
 
-
+| --- | --- | --- | --- | 
 | Level 01 | 7^1 | `7` *10e-9 = | `0,000000007 B` |
 | Level 02 | 7^2 | `49` *10e-9 = | `0,000000049 B` |
 | Level 03 | 7^3 | `343` *10e-9 = | `0,000000343 B` |
