@@ -21,7 +21,7 @@ Level 07 7^7 `823543` *10e-9 = `0,000823543 B`
 
 Level 08 7^8 `5764801` *10e-9 = `0,005764801 B`
 
-Level 09 7^9 `40353607` *10e-9 = `0,040353607 B` # 40M to 300M reflex model class.
+Level 09 7^9 `40353607` *10e-9 = `0,040353607 B` # 40M to 300M - reflex model class.
 
 Level 10 7^10 `282475249` *10e-9 = `0,282475249 B` # 300M to 2B - sentence model class.
 
