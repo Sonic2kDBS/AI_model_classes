@@ -1,5 +1,5 @@
 # S2k AI model classes
-This is an idea to specify loose levels / classes for AI models.
+This is an idea to specify levels / classes for AI models.
 
 Sice almost half a Year I had that idea and as often as I tried calculations to find another class-model, I still came back to his.
 The Formula is `7^x*10^-9`, where x is the class / level and the result is the first Parameter count of the class / level in Billion.
