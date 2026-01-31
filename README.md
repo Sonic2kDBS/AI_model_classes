@@ -22,7 +22,7 @@ The Formula is `7^x*10^-9`, where x is the class / level and the result is the f
 | `Level 14` | 7^14 | `678223072849` | *10e-9 = | `678,223072849 B` | # 678B to 4,7T - Superintelligence level AI / ASI Class. |
 | `Level 15` | 7^15 | `4747561509943` | *10e-9 = | `4747,561509943 B` | |
 
-This should be used with caution, since AI models have different skills. Nevertheless it can help to classify AI models to certain categories.
+This should be used with caution, since AI models have different skills. Nevertheless it can help to classify AI models into certain categories.
 
 ## License
 
