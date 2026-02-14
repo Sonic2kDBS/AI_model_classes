@@ -20,7 +20,7 @@ The Formula is `7^x*10^-9`, where x is the class / level and the result is the f
 | `Level 12` | 7^12 | `13841287201` | *10e-9 = | `13,841287201 B` | # 13B to 96B - Human level AI / Expert Class. |
 | `Level 13` | 7^13 | `96889010407` | *10e-9 = | `96,889010407 B` | # 96B to 678B - Superhuman level AI / AGI Class. |
 | `Level 14` | 7^14 | `678223072849` | *10e-9 = | `678,223072849 B` | # 678B to 4,7T - Superintelligence level AI / ASI Class. |
-| `Level 15` | 7^15 | `4747561509943` | *10e-9 = | `4747,561509943 B` | # Massive Mixture of Experts / MMoE Class |
+| `Level 15` | 7^15 | `4747561509943` | *10e-9 = | `4747,561509943 B` | # Massive Mixture of Experts Cluster / MMoEC Class |
 
 This should be used with caution, since AI models have different skills. Nevertheless it can help to classify AI models into certain categories.
 
