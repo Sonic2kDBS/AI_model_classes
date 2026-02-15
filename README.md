@@ -15,7 +15,7 @@ The Formula is `7^x*10^-9`, where x is the class / level and the result is the f
 | `Class / Level 07` | 7^7 | `823543` | *10e-9 = | `0,000823543 B` | # 823k to 5,8M Parameters |
 | `Class / Level 08` | 7^8 | `5764801` | *10e-9 = | `0,005764801 B` | # 5,8M to 40M Parameters |
 | `Class / Level 09` | 7^9 | `40353607` | *10e-9 = | `0,040353607 B` | # 40M to 300M - reflex model class. |
-| `Class / Level 10` | 7^10 | `282475249` | *10e-9 = | `0,282475249 B` | # 300M to 2B - sentence model class. |
+| `Class / Level 10` | 7^10 | `282475249` | *10e-9 = | `0,282475249 B` | # 300M to 2B - sentence model class / tiny AI models |
 | `Class / Level 11` | 7^11 | `1977326743` | *10e-9 = | `1,977326743 B` | # 2B to 13B - Small AI models / Small Language Models (SLM/SML) AI Companion Class. |
 | `Class / Level 12` | 7^12 | `13841287201` | *10e-9 = | `13,841287201 B` | # 13B to 96B - Human level AI / Expert Class. |
 | `Class / Level 13` | 7^13 | `96889010407` | *10e-9 = | `96,889010407 B` | # 96B to 678B - Superhuman level AI / AGI Class. |
