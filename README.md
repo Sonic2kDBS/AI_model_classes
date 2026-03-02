@@ -5,7 +5,7 @@ Since almost half a Year I had that idea and as often as I tried calculations to
 The Formula is `7^x*10^-9`, where x is the class / level and the result is the first Parameter count of the class / level in Billion.
 ## S2k AI model classes
 | Level | Formula | intermediate step | /1B | result | comment |
-| :------- | :---: | ---: | --- | ---: | --- |
+| :------------ | :---: | ---: | --- | ---: | --- |
 | Class 01 | 7^1 | `7` | *10e-9 = | `0,000000007 B` | # 7 to 48 Parameters |
 | Class 02 | 7^2 | `49` | *10e-9 = | `0,000000049 B` | # 49 to 342 Parameters |
 | Class 03 | 7^3 | `343` | *10e-9 = | `0,000000343 B` | # 343 to 2k Parameters |
