@@ -18,7 +18,7 @@ The Formula is `7^x*10^-9`, where x is the class / level and the result is the f
 | Class&nbsp;10 | 7^10 | `282475249` | *10e-9 = | `0,282475249 B` | # 300M to 2B - sentence model class / tiny AI models - Bird Class |
 | Class&nbsp;11 | 7^11 | `1977326743` | *10e-9 = | `1,977326743 B` | # 2B to 13B - Small AI Language Models (SLM/SML) AI Companion Class. Specialist - Pet class |
 | Class&nbsp;12 | 7^12 | `13841287201` | *10e-9 = | `13,841287201 B` | # 13B to 96B - Human level AI / Expert Class - Primate class |
-| Class&nbsp;13 | 7^13 | `96889010407` | *10e-9 = | `96,889010407 B` | # 96B to 678B - Superhuman level AI / AGI Class. |
+| Class&nbsp;13 | 7^13 | `96889010407` | *10e-9 = | `96,889010407 B` | # 96B to 678B - Superhuman level AI / AGI Class - Cetacean class |
 | Class&nbsp;14 | 7^14 | `678223072849` | *10e-9 = | `678,223072849 B` | # 678B to 4,7T - Superintelligence level AI / ASI Class. |
 | Class&nbsp;15 | 7^15 | `4747561509943` | *10e-9 = | `4747,561509943 B` | # Massive Mixture of Experts Cluster / MMoEC Class |
 
