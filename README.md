@@ -24,6 +24,8 @@ The Formula is `7^x*10^-9`, where x is the class / level and the result is the f
 
 This should be used with caution, since AI models have different skills. Nevertheless it can help to classify AI models into certain categories.
 
+---
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
