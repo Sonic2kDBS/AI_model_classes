@@ -4,7 +4,7 @@ This is an idea to specify levels / classes for AI models.
 Since almost half a Year I had that idea and as often as I tried calculations to find another class-model, I still came back to his.
 The Formula is `7^x*10^-9`, where x is the class / level and the result is the first Parameter count of the class / level in Billion.
 
-I start with the full list first and later spit parts of it up for more exaples, extensions and details.
+I start with the full list first and later spit parts of it up for more examples, extensions and details.
 
 ## S2k AI model classes
 | Level    | Formula | intermediate step | /1B | result | comment |
