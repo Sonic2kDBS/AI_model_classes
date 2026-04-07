@@ -18,7 +18,7 @@ I start with the full list first and later spit parts of it up for more examples
 | Class&nbsp;07 | 7^7 | `823543` | *10^-9 = | `0,000823543 B` | # 823k to 5,8M Parameters - Gecko Class |
 | Class&nbsp;08 | 7^8 | `5764801` | *10^-9 = | `0,005764801 B` | # 5,8M to 40M Parameters - Reptile Class |
 | Class&nbsp;09 | 7^9 | `40353607` | *10^-9 = | `0,040353607 B` | # 40M to 300M - reflex model class / tiny embedding models - Rodent Class |
-| Class&nbsp;10 | 7^10 | `282475249` | *10^-9 = | `0,282475249 B` | # 300M to 2B - sentence model class / embedding model class / tiny AI models - Bird Class |
+| Class&nbsp;10 | 7^10 | `282475249` | *10^-9 = | `0,282475249 B` | # 300M to 2B - sentence model class / embedding models / tiny AI models - Bird Class |
 | Class&nbsp;11 | 7^11 | `1977326743` | *10^-9 = | `1,977326743 B` | # 2B to 13B - Small AI Language Models (SLM/SML) AI Companion Class. Specialist - Mammal Class (Pet class) |
 | Class&nbsp;12 | 7^12 | `13841287201` | *10^-9 = | `13,841287201 B` | # 13B to 96B - Human level AI / Expert Class - Primate Class |
 | Class&nbsp;13 | 7^13 | `96889010407` | *10^-9 = | `96,889010407 B` | # 96B to 678B - Superhuman level AI / AGI Class - Cetacean Class |
