@@ -15,7 +15,7 @@ I start with the full list first and later spit parts of it up for more examples
 | Class&nbsp;04 | 7^4 | `2401` | *10^-9 = | `0,000002401 B` | # 2k to 16k Parameters - Snail Class |
 | Class&nbsp;05 | 7^5 | `16807` | *10^-9 = | `0,000016807 B` | # 16k to 117k Parameters - Fruit fly Class |
 | Class&nbsp;06 | 7^6 | `117649` | *10^-9 = | `0,000117649 B` | # 117k to 823k Parameters - Bee Class|
-| Class&nbsp;07 | 7^7 | `823543` | *10^-9 = | `0,000823543 B` | # 823k to 5,8M Parameters - Gecko Class |
+| Class&nbsp;07 | 7^7 | `823543` | *10^-9 = | `0,000823543 B` | # 823k to 5,8M Parameters - Mobile-Edge class / edge device image classifier models - Gecko Class |
 | Class&nbsp;08 | 7^8 | `5764801` | *10^-9 = | `0,005764801 B` | # 5,8M to 40M Parameters - ultra small embedding models - Reptile Class |
 | Class&nbsp;09 | 7^9 | `40353607` | *10^-9 = | `0,040353607 B` | # 40M to 300M - reflex model class / tiny embedding models - Rodent Class |
 | Class&nbsp;10 | 7^10 | `282475249` | *10^-9 = | `0,282475249 B` | # 300M to 2B - sentence model class / embedding models / tiny AI models - Bird Class |
